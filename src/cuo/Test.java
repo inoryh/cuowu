@@ -19,6 +19,5 @@ public class Test {
         p.setAge(age);
         System.out.println("他的年纪是:"+p.getAge());
 
-
     }
 }
