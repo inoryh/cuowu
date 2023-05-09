@@ -6,7 +6,6 @@ package cuo;
  * @Title: MyException
  * @Package cuo
  */
-
 public class MyException extends Exception{
     String msg;
     public MyException(String msg) {
